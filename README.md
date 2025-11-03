@@ -2,7 +2,7 @@
 
 🎓 **Engineering Student in Computer Science** at **Sup Galilée – Université Paris 13**  
 💡 Passionate about building reliable, data-driven, and scalable software solutions.  
-🚀 Currently looking for a **4–6 month internship** starting **July 2025** to apply my technical skills and gain hands-on experience in innovative environments.
+🚀 Currently looking for a **4–6 month internship** starting **May 2026** to apply my technical skills and gain hands-on experience in innovative environments.
 
 ---
 
