@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salaheddine Ait Ouahman
+# 👋 Hi, I'm Salaheddine Aitouahman
 
 🎓 **Engineering Student in Computer Science** at **Sup Galilée – Université Paris 13**  
 💡 Passionate about building reliable, data-driven, and scalable software solutions.  
