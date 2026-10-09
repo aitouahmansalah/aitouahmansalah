@@ -76,9 +76,9 @@
 
 ## 📫 Contact
 - 📍 Paris, Île-de-France, France  
-- ✉️ [salahouhman@gmail.com](mailto:salahouhman@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 💻 [GitHub](https://github.com/SalaheddineAitOuahman)
+- ✉️ [salahaitouahman1@gmai.com](mailto:salahaitouahman1@gmai.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/salaheddine-aitouahman-225b05269/)  
+
 
 ---
 
